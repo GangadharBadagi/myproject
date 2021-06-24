@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 0E06-34D8
+
+ Directory of C:\Users\GBI4\Desktop\Simpragma\tools\git\projects\myfirstproject
+
+06/24/2021  09:29 AM    <DIR>          .
+06/24/2021  09:29 AM    <DIR>          ..
+06/24/2021  09:29 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,431,704,064 bytes free
